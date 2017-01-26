@@ -18,8 +18,5 @@
     "url": "https://github.com/mise-en-place/tools.map-get-if-exists.git"
   },
   "author": "Kind",
-  "license": "MIT",
-  "devDependencies": {
-    "mep-tools.get-map-if-exists": "github:mise-en-place/tools.get-map-if-exists"
-  }
+  "license": "MIT"
 }
