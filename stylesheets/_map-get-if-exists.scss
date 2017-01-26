@@ -6,3 +6,7 @@
         @error "#{$map} has no key named '#{$key}'";
     }
 }
+
+@function type-config($key){
+    @return map-get-if-exists($type, $key);
+}
