@@ -1,15 +1,9 @@
 {
   "name": "mep-tools.map-get-if-exists",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Map Get If Exists Tool",
   "main": "stylesheets/_tool-map-get-if-exists.scss",
-  "eyeglass": {
-    "needs": "^1.0.0",
-    "name": "tool-map-get-if-exists",
-    "exports": "eyeglass-exports.js"
-  },
   "keywords": [
-    "eyeglass-module",
     "sass",
     "mise-en-place"
   ],
