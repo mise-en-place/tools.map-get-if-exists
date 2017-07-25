@@ -1,6 +1,6 @@
 {
   "name": "@mise-en-place/tools.map-get-if-exists",
-  "version": "2.0.0",
+  "version": "3.0.0",
   "description": "Map Get If Exists Tool",
   "main": "stylesheets/_tool-map-get-if-exists.scss",
   "keywords": [
